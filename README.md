@@ -8,7 +8,7 @@ You will mostly find Python projects here.
 
 |Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
 |---------|----------------------|--------------------|--------------|------------|
-|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel | Machine Learning - Linear Regression | ...|
+|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel, Numpy | Machine Learning - Linear Regression | ...|
 
 
 
