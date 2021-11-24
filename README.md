@@ -2,7 +2,7 @@
 
 |Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
 |---------|----------------------|--------------------|--------------|------------|
-|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel | Linear Regression | ...|
+|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel | Machine Learning - Linear Regression | ...|
 
 
 
