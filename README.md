@@ -4,7 +4,7 @@ This repository is a compilation of different projects and notebooks I created f
 
 You will mostly find Python projects here.
 
-# Projects
+## Projects
 
 |Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
 |---------|----------------------|--------------------|--------------|------------|
