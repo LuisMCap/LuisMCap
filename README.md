@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-|Project Name|  Language(s) used |  Libraries(s) used | Description |
-|---------|----------------------|--------------------|-------------|
-|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel | ...|
+|Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
+|---------|----------------------|--------------------|--------------|------------|
+|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel | Linear Regression | ...|
 
 
 
