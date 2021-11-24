@@ -1,4 +1,10 @@
-### Hi there 👋
+# Introduction
+
+This repository is a compilation of different projects and notebooks I created for data analysis and automation projects.
+
+You will mostly find Python projects here.
+
+# Projects
 
 |Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
 |---------|----------------------|--------------------|--------------|------------|
