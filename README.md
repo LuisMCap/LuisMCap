@@ -6,9 +6,11 @@ You will mostly find Python projects here.
 
 ## Projects
 
+### Machine Learning
+
 |Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
 |---------|----------------------|--------------------|--------------|------------|
-|Cryptocurrency Token Burned-Minted vs Price| Python | Pandas, Matplotlib, Seaborn, Statsmodel, Numpy | Machine Learning - Linear Regression | ...|
+|Cryptocurrency Token Price Analysis|    Python    | Pandas, Matplotlib, Seaborn, Statsmodel, Numpy | Machine Learning - Linear Regression |I explore and try to test if it exists a relationship between the burned and minted mechanisms of a token and its price|
 
 
 
