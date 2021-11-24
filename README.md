@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-|Tables|
-|---|
+|Project Name| Languages\Libreries used|Description|
+|Cryptocurrency Token Burned-Minted vs Price| Python/|
+|                                           |         |
 
 
 <!--
