@@ -10,7 +10,7 @@ You will mostly find Python projects here.
 
 |Project Name|  Language(s) used |  Libraries(s) used | Methods used |Description |
 |---------|----------------------|--------------------|--------------|------------|
-|Cryptocurrency Token Price Analysis|    Python    | Pandas, Matplotlib, Seaborn, Statsmodel, Numpy | Machine Learning - Linear Regression |I explore if the burned and minted mechanisms of a token affect its price|
+|[Cryptocurrency Token Price Analysis](https://github.com/LuisMCap/LuisMCap-Cryptocurrency-Token-Price-Analysis "Cryptocurrency Token Price Analysis")|    Python    | Pandas, Matplotlib, Seaborn, Statsmodel, Numpy | Machine Learning - Linear Regression |I explore if the burned and minted mechanisms of a token affect its price|
 
 
 
