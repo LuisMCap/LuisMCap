@@ -12,7 +12,11 @@ You will mostly find Python projects here.
 |---------|----------------------|--------------------|--------------|------------|
 |[Cryptocurrency Token Price Analysis](https://github.com/LuisMCap/LuisMCap-Cryptocurrency-Token-Price-Analysis "Cryptocurrency Token Price Analysis")|    Python    | Pandas, Matplotlib, Seaborn, Statsmodel, Numpy | Machine Learning - Linear Regression |I explore if the burned and minted mechanisms of a token affect its price|
 
+### Automation
 
+|Project Name|  Language(s) used |  Libraries(s) used |Description |
+|---------|----------------------|--------------------|------------|
+|[eBay email Tracker](https://github.com/LuisMCap/eBay-email-tracker "eBay email Tracker")|    Python    | Pandas, BeatifulSoup, Numpy  |Scapes an entire search page of a particular item on eBay and sends regular updates to an email address|
 
 <!--
 **LuisMCap/LuisMCap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
