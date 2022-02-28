@@ -18,6 +18,12 @@ You will mostly find Python projects here.
 |---------|----------------------|--------------------|------------|
 |[eBay email Tracker](https://github.com/LuisMCap/eBay-email-tracker "eBay email Tracker")|    Python    | Pandas, BeatifulSoup, Numpy  |Scapes an entire search page of a particular item on eBay and sends regular updates to an email address|
 
+### Games
+
+|Project Name|  Language(s) used |  Libraries(s) used |Description |
+|---------|----------------------|--------------------|------------|
+|[Pong Game](https://github.com/LuisMCap/Pong-Game "Pong-Game")|    Python    | Pygame  |Pong Game using Pygame and only OOP with three different game modes (1 available at the moment).|
+
 <!--
 **LuisMCap/LuisMCap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
